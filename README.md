@@ -1,3 +1,3 @@
 # projet-run
-## A faire : ajouter un fichier `.gitignore`
+# A faire : ajouter un fichier `.gitignore`
 ### projet collaboratif
